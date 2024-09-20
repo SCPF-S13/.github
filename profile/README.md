@@ -9,6 +9,8 @@
 
 </div>
 
+---
+
 > [!NOTE]
 > Any contributions under this GitHub Organization is considered proprietary to the organization and is expressly owned by organization owner [@ShhhhhhhhhhhBro](https://github.com/ShhhhhhhhhhhBro) unless otherwise stated in writing.
 
